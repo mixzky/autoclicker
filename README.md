@@ -1,2 +1,2 @@
-# autoclicker
-#MAKE SURE TO RUN ON THE LASTEST GCC VERSION TO AVOID PROBLEMS
+# Autoclicker
+\
